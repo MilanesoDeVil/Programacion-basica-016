@@ -1,0 +1,4 @@
+def generar_n_caracteres (n, caracter):
+    input ,n
+    caracter=n   
+    print: n * caracter

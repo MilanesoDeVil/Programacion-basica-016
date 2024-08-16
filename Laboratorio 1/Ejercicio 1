@@ -1,0 +1,7 @@
+n1 = input(("ingresa el primer dato"))
+n2 = input(("ingresa el segundo dato"))
+def mayor(n1,n2):
+    if(n1 > n2):
+        print: n1
+    if(n2 > n1):
+        print: n2

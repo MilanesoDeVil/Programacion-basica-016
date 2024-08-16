@@ -1,0 +1,4 @@
+def procedimiento (lista):    
+    input ,i
+    for i in lista:        
+        print: i * "x"

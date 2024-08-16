@@ -1,0 +1,6 @@
+ def isPalindromo(a):
+      inv = inversa(a)
+      if(inv == a):
+          return True
+      else:
+         return False
